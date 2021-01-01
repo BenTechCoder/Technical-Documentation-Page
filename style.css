@@ -8,6 +8,7 @@ body {
   background-color: #ffffff;
   font-family: 'Syne Mono', 'catamaran';
   line-height: 1.5;
+  scroll-behavior: smooth;
 }
 
 #navbar {
